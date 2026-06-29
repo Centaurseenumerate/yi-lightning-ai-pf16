@@ -1,4 +1,4 @@
-# 
+# Personalizado Yi-Lightning herramientas. Con integración de base de datos vectorial y soporte multilenguaje — optimizado para el máximo rendimiento y eficiencia.
 
 
 
